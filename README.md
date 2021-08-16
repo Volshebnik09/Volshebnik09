@@ -8,6 +8,5 @@
 !['jQuery'](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 <!-- ![](https://lingtalfi.com/services/pngtext?color=00a7ff&size=15&text=Contacts) -->
-## Some Stats
----
+## Some Stats:
 <a href='https://www.codewars.com/users/Volshebnik09'>![](https://www.codewars.com/users/Volshebnik09/badges/large)</a>
