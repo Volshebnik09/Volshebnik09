@@ -14,7 +14,7 @@ I am a student of Tambov State University G.R. Derzhavin. I want to become a fro
 ![](https://img.shields.io/badge/gulp-FAFAFA.svg?style=for-the-badge&logo=gulp&logoColor=black)
 ![](https://img.shields.io/badge/webpack-FAFAFA.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-## <img src="images/cat.gif" height="100"> Curently i'm learning -> ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
+## <img src="images/cat.gif" height="100"> <br> Curently i'm learning -> ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 
 
 
