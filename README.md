@@ -11,10 +11,10 @@ I am a student of Tambov State University G.R. Derzhavin. I want to become a fro
 ![](https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=DFDFDF)
 
 
-![](https://img.shields.io/badge/pug-FAFAFA.svg?style=for-the-badge&logo=pug&logoColor=black)
-![](https://img.shields.io/badge/scss-FAFAFA.svg?style=for-the-badge&logo=sass&logoColor=black)
-![](https://img.shields.io/badge/gulp-FAFAFA.svg?style=for-the-badge&logo=gulp&logoColor=black)
-![](https://img.shields.io/badge/webpack-FAFAFA.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![](https://img.shields.io/badge/pug-502020.svg?style=for-the-badge&logo=pug&logoColor=DFDFDF)
+![](https://img.shields.io/badge/scss-502020.svg?style=for-the-badge&logo=sass&logoColor=DFDFDF)
+![](https://img.shields.io/badge/gulp-502020.svg?style=for-the-badge&logo=gulp&logoColor=DFDFDF)
+![](https://img.shields.io/badge/webpack-502020.svg?style=for-the-badge&logo=webpack&logoColor=DFDFDF)
 
 ## <img src="images/cat.gif" height="100"> <br> ![Vue.js](https://img.shields.io/badge/Currently&nbsp;i'm&nbsp;learning&nbsp;VUE-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 
