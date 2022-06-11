@@ -1,5 +1,7 @@
 # Hi
 
+<img src="images/lovingCat.gif" height="100" align='right'>
+
 I am a student of Tambov State University G.R. Derzhavin. I want to become a frontend developer
 
 ## My stack:
