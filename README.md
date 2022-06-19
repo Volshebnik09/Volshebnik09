@@ -5,7 +5,7 @@
 I am a student of Tambov State University G.R. Derzhavin. I want to become a frontend developer
 
 ## My stack:
-
+  
 ![](https://img.shields.io/badge/html5-000000.svg?style=for-the-badge&logo=html5&logoColor=DFDFDF)
 ![](https://img.shields.io/badge/css3-000000.svg?style=for-the-badge&logo=css3&logoColor=DFDFDF)
 ![](https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=DFDFDF)
